@@ -1,3 +1,7 @@
+# 屏蔽掉所有 student 文件夹下的模型文件
+/a3/student/model.bin
+/a3/student/model.bin.optim
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
